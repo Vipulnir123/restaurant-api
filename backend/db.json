@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "id": 1, "name": "Vipul", "email": "vipul@test.com", "password": "12345" }
+  ],
+  "restaurants": [
+    { "id": 1, "name": "Dominos", "address": "Mumbai", "contact": "1234567890" }
+  ]
+}
