@@ -4,5 +4,9 @@
   ],
   "restaurants": [
     { "id": 1, "name": "Dominos", "address": "Mumbai", "contact": "1234567890" }
+  ],
+  "foods": [
+    { "id": 1, "restaurantId": 1, "name": "Pizza", "price": "250" },
+    { "id": 2, "restaurantId": 1, "name": "Garlic Bread", "price": "120" }
   ]
 }
